@@ -14,50 +14,50 @@ describes the specific content it explores.
 
 Want to work through all of them? I recommend working through the exercises in the following order.
 
-### Exercises
+## Exercises
 
-#### Primitive Types
+### Primitive Types
 
 - [ ] [`integers.c`](/exercises/primitives/integers.c)
 - [ ] [`floats.c`](/exercises/primitives/floats.c)
 
-#### User Types (Structures)
+### User Types (Structures)
 
 - [ ] [`structures.c`](/exercises/structs/structures.c)
 - [ ] [`unions.c`](/exersises/structs/unions.c)
 
-#### Arrays 
+### Arrays 
 
 - [ ] [`general.c`](/exercises/arrays/general.c)
 - [ ] [`characters.c`](/exercises/arrays/characters.c)
 
-#### Strings
+### Strings
 
 - [ ] [`terminator.c`](/exercises/strings/terminator.c)
 - [ ] [`builtin.c`](/exercises/strings/builtin.c)
 - [ ] [`safety.c`](/exercises/strings/safety.c)
 
-#### Memory
+### Memory
 
 - [ ] [`stack.c`](/exercises/memory/stack.c)
 - [ ] [`heap.c`](/exercises/memory/heap.c)
 - [ ] [`pointers.c`](/exercises/memory/pointers.c)
 - [ ] [`unbounded.c`](/exercises/memory/unbounded.c)
 
-#### Pointers
+### Pointers
 
 - [ ] [`arrays.c`](/exercises/pointers/arrays.c)
 - [ ] [`arguments.c`](/exersises/pointers/arguments.c)
 - [ ] [`double.c`](/exercises/pointers/double.c)
 
-#### Streams
+### Streams
 
 - [ ] [`printf.c`](/exercises/streams/printf.c)
 - [ ] [`standard.c`](/exercises/streams/standard.c)
 - [ ] [`redirection.c`](/exercises/streams/redirection.c)
 - [ ] [`files.c`](/exercises/streams/files.c)
 
-#### Applications
+### Applications
 
 - [ ] [`sorting.c`](/exercises/applications/sorting.c)
 - [ ] [`faults.c`](/exercises/applications/faults.c)
