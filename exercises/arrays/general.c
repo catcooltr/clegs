@@ -60,6 +60,9 @@ int main(int arc, char* argv[]) {
      */
     int fix_me[] = {1,2,3,4,5};
 
-    printf("The values of fix_me are: [%d, %d, %d, %d, %d, %d]\n", fix_me[0], fix_me[1], fix_me[2], fix_me[3], fix_me[4], fix_me[5]);
+    printf(
+        "The values of fix_me are: [%d, %d, %d, %d, %d, %d]\n", 
+        fix_me[0], fix_me[1], fix_me[2], fix_me[3], fix_me[4], fix_me[5]
+    );
 
 }
