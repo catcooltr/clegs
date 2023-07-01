@@ -2,6 +2,22 @@
 
 Learn C a là rustlings!
 
+## Installation
+
+I highly, highly recommend working through these C tutorials "in the cloud" through GitHub Codespaces. 
+This service is free for (at the time of writing) up to 60 hours per month. Working through these
+exercises in a GitHub Codespace allows you to work in a Linux environment with **all** debugging 
+tools and compilers automatically installed. This removes potential pain paints when compiling
+these programs on different operating systems. Codespaces help you focus on learning C, *not*
+debugging operating-system-specific issues. 
+
+To use a GitHub Codespace, you'll need a GitHub account. Then...
+
+1. Fork this repository using the "fork" button at the top-right of the repository's webpage.
+2. Click the green "Code" button, then select a Codespace.
+    - You can run this Codespace in your browser, or in your Visual Studio Code installation
+      on your computer using the GitHub Codespaces extension.
+
 ## Usage
 
 It would be so cool to have an automated script (like `rustlings`) that guides each student 
