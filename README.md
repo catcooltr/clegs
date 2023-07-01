@@ -31,11 +31,11 @@ Want to work through all of them? I recommend working through the exercises in t
 - [ ] [`general.c`](/exercises/arrays/general.c)
 - [ ] [`characters.c`](/exercises/arrays/characters.c)
 
-### Strings
+### Pointers
 
-- [ ] [`terminator.c`](/exercises/strings/terminator.c)
-- [ ] [`builtin.c`](/exercises/strings/builtin.c)
-- [ ] [`safety.c`](/exercises/strings/safety.c)
+- [ ] [`arrays.c`](/exercises/pointers/arrays.c)
+- [ ] [`arguments.c`](/exersises/pointers/arguments.c)
+- [ ] [`double.c`](/exercises/pointers/double.c)
 
 ### Memory
 
@@ -44,11 +44,11 @@ Want to work through all of them? I recommend working through the exercises in t
 - [ ] [`pointers.c`](/exercises/memory/pointers.c)
 - [ ] [`unbounded.c`](/exercises/memory/unbounded.c)
 
-### Pointers
+### Strings
 
-- [ ] [`arrays.c`](/exercises/pointers/arrays.c)
-- [ ] [`arguments.c`](/exersises/pointers/arguments.c)
-- [ ] [`double.c`](/exercises/pointers/double.c)
+- [ ] [`terminator.c`](/exercises/strings/terminator.c)
+- [ ] [`builtin.c`](/exercises/strings/builtin.c)
+- [ ] [`safety.c`](/exercises/strings/safety.c)
 
 ### Streams
 
