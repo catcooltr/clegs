@@ -1,0 +1,35 @@
+VA
+TX
+AL
+WV
+NH
+KY
+NJ
+PA
+CO
+OK
+CA
+IO
+NY
+OR
+MA
+IN
+IL
+GA
+WA
+Iowa
+IOWA
+West Virginia
+WEST VIRGINIA
+Virginia
+VIRGINIA
+Florida
+FLORIDA
+Texas
+TEXAS
+Colorado
+COLORADO
+Kentucky
+KENTUCKY
+Maine
+MAINE
